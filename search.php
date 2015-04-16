@@ -374,7 +374,7 @@ main();
 
 
 ?>
-<hr size="1"><address style="text-align: right;"><small>Generated on Thu Apr 9 16:08:36 2015 for QHexEdit by&nbsp;
+<hr size="1"><address style="text-align: right;"><small>Generated on Fri Apr 10 15:02:02 2015 for QHexEdit by&nbsp;
 <a href="http://www.doxygen.org/index.html">
 <img src="doxygen.png" alt="doxygen" align="middle" border="0"></a> 1.5.9 </small></address>
 </body>
